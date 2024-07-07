@@ -10,7 +10,7 @@ const Header = () => {
                 alignItems: "center",
             }}
         >
-            <Typography.Title>Anima</Typography.Title>
+            <Typography.Title>Anima </Typography.Title>
         </AntHeader>
     );
 };
